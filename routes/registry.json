@@ -1,0 +1,16 @@
+{
+    "services": {
+        "partner-external-integrations": {
+            "apiEntity": "partner-external-integrations",
+            "host": "https://ms-checkout-staging.provi.com.br",
+            "port": 5005,
+            "baseURL": "https://ms-checkout-staging.provi.com.br"
+        },
+        "webhooks": {
+            "apiEntity": "webhooks",
+            "host": "https://ms-checkout-staging.provi.com.br",
+            "port": 5005,
+            "baseURL": "https://ms-checkout-staging.provi.com.br"
+        }
+    }
+}
